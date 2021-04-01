@@ -14,7 +14,7 @@
 
 Hey, My name is Rohit Pathak a passionate Machine Learning enthusiast 🚀. Currently, I'm  learning ML, DL, & NLP. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" height="150"  />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" height="200"  />
 
 
 - 👯 I’m happy to collaborate with Data Science community.
