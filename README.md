@@ -1,7 +1,12 @@
-### Hi there 👋
+### Hello All 👋
+<br/>
 
-<!--
-**rohitpathak18/rohitpathak18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/rohit-pathak-97b36118a/">
+  <img align="left" alt="Vasanth P LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/_rohitpthak_/">
+  <img align="left" alt="My Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 Here are some ideas to get you started:
 
