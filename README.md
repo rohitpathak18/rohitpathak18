@@ -1,4 +1,4 @@
-### Hello All 👋
+### Hello All <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <br/>
 
 <a href="https://www.linkedin.com/in/rohit-pathak-97b36118a/">
@@ -14,7 +14,7 @@
 
 Hey, My name is Rohit Pathak a passionate Machine Learning enthusiast 🚀. Currently, I'm  learning ML, DL, & NLP. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="200" height="120"  />
 
 
 - 👯 I’m happy to collaborate with Data Science community.
