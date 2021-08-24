@@ -19,7 +19,7 @@ Hey, My name is Rohit Pathak a passionate Machine Learning enthusiast 🚀. Curr
 
 - 👯 I’m happy to collaborate with Data Science community.
 - 💬 Ask me about,I am happy to help;
-- 📫 How to reach me: [@rohitpthak](https://www.instagram.com/_rohitpthak_/);
+- 📫 How to reach me: [Rohit Pathak](https://www.linkedin.com/in/rohit-pathak-97b36118a/);
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
